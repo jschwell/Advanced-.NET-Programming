@@ -1,0 +1,26 @@
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson 4\Lesson 4\bin\Debug\Lesson 4.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson 4\Lesson 4\bin\Debug\Lesson 4.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson 4\Lesson 4\bin\Debug\Lesson 4.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson 4\Lesson 4\obj\Debug\Lesson 4.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson 4\Lesson 4\obj\Debug\Lesson_4.EmpForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson 4\Lesson 4\obj\Debug\Lesson_4.MainForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson 4\Lesson 4\obj\Debug\Lesson_4.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson 4\Lesson 4\obj\Debug\Lesson 4.csproj.GenerateResource.Cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson 4\Lesson 4\obj\Debug\Lesson 4.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson 4\Lesson 4\obj\Debug\Lesson 4.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson 4\Lesson 4\obj\Debug\Lesson_4.SupervisorForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson 4\Lesson 4\obj\Debug\Lesson_4.WorkerForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson 4\Lesson 4\obj\Debug\Lesson_4.TeamLeaderForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson4\Lesson 4\bin\Debug\Lesson 4.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson4\Lesson 4\obj\Debug\Lesson 4.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson4\Lesson 4\obj\Debug\Lesson 4.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson4\Lesson 4\bin\Debug\Lesson 4.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson4\Lesson 4\bin\Debug\Lesson 4.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson4\Lesson 4\obj\Debug\Lesson 4.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson4\Lesson 4\obj\Debug\Lesson_4.EmpForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson4\Lesson 4\obj\Debug\Lesson_4.WorkerForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson4\Lesson 4\obj\Debug\Lesson_4.MainForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson4\Lesson 4\obj\Debug\Lesson_4.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson4\Lesson 4\obj\Debug\Lesson_4.SupervisorForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson4\Lesson 4\obj\Debug\Lesson_4.TeamLeaderForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 4\Lesson4\Lesson 4\obj\Debug\Lesson 4.csproj.GenerateResource.Cache
