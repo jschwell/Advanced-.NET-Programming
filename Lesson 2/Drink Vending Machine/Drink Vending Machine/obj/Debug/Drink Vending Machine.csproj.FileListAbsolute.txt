@@ -1,0 +1,9 @@
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Drink Vending Machine\Drink Vending Machine\bin\Debug\Drink Vending Machine.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink Vending Machine.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink_Vending_Machine.Form1.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink_Vending_Machine.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink Vending Machine.csproj.GenerateResource.Cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Drink Vending Machine\Drink Vending Machine\bin\Debug\Drink Vending Machine.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Drink Vending Machine\Drink Vending Machine\bin\Debug\Drink Vending Machine.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink Vending Machine.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Drink Vending Machine\Drink Vending Machine\obj\Debug\Drink Vending Machine.pdb
