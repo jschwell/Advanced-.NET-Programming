@@ -1,0 +1,30 @@
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Email Address Book\Email Address Book\bin\Debug\Email Address Book.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Email Address Book\Email Address Book\bin\Debug\Email Address Book.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Email Address Book\Email Address Book\bin\Debug\Email Address Book.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Email Address Book\Email Address Book\obj\Debug\Email Address Book.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Email Address Book\Email Address Book\obj\Debug\Email_Address_Book.MainForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Email Address Book\Email Address Book\obj\Debug\Email_Address_Book.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Email Address Book\Email Address Book\obj\Debug\Email Address Book.csproj.GenerateResource.Cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Email Address Book\Email Address Book\obj\Debug\Email Address Book.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Email Address Book\Email Address Book\obj\Debug\Email Address Book.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Email Address Book\Email Address Book\obj\Debug\Email_Address_Book.EntryForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Email Address Book\Email Address Book\bin\Debug\Email Address Book.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Email Address Book\Email Address Book\obj\Debug\Email Address Book.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Email Address Book\Email Address Book\obj\Debug\Email Address Book.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Email Address Book\Email Address Book\bin\Debug\Email Address Book.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Email Address Book\Email Address Book\bin\Debug\Email Address Book.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Email Address Book\Email Address Book\obj\Debug\Email Address Book.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Email Address Book\Email Address Book\obj\Debug\Email_Address_Book.EntryForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Email Address Book\Email Address Book\obj\Debug\Email_Address_Book.MainForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Email Address Book\Email Address Book\obj\Debug\Email_Address_Book.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Email Address Book\Email Address Book\obj\Debug\Email Address Book.csproj.GenerateResource.Cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A4\Email Address Book\Email Address Book\bin\Debug\Email Address Book.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A4\Email Address Book\Email Address Book\obj\Debug\Email Address Book.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A4\Email Address Book\Email Address Book\obj\Debug\Email Address Book.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A4\Email Address Book\Email Address Book\bin\Debug\Email Address Book.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A4\Email Address Book\Email Address Book\bin\Debug\Email Address Book.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A4\Email Address Book\Email Address Book\obj\Debug\Email Address Book.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A4\Email Address Book\Email Address Book\obj\Debug\Email_Address_Book.EntryForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A4\Email Address Book\Email Address Book\obj\Debug\Email_Address_Book.MainForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A4\Email Address Book\Email Address Book\obj\Debug\Email_Address_Book.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A4\Email Address Book\Email Address Book\obj\Debug\Email Address Book.csproj.GenerateResource.Cache

@@ -1,0 +1,29 @@
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Employee Class\Employee Class\bin\Debug\Employee Class.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Employee Class\Employee Class\obj\Debug\Employee Class.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Employee Class\Employee Class\obj\Debug\Employee_Class.Form1.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Employee Class\Employee Class\obj\Debug\Employee_Class.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Employee Class\Employee Class\obj\Debug\Employee Class.csproj.GenerateResource.Cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Employee Class\Employee Class\bin\Debug\Employee Class.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Employee Class\Employee Class\bin\Debug\Employee Class.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Employee Class\Employee Class\obj\Debug\Employee Class.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Employee Class\Employee Class\obj\Debug\Employee Class.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Employee Class\Employee Class\bin\Debug\Employee Class.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Employee Class\Employee Class\obj\Debug\Employee Class.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Employee Class\Employee Class\obj\Debug\Employee Class.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Employee Class\Employee Class\bin\Debug\Employee Class.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Employee Class\Employee Class\bin\Debug\Employee Class.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Employee Class\Employee Class\obj\Debug\Employee Class.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Employee Class\Employee Class\obj\Debug\Employee_Class.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Employee Class\Employee Class\obj\Debug\Employee Class.csproj.GenerateResource.Cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Employee Class\Employee Class\obj\Debug\Employee_Class.EmpForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\Employee Class\Employee Class\obj\Debug\Employee_Class.MainForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A2\Employee Class\Employee Class\bin\Debug\Employee Class.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A2\Employee Class\Employee Class\obj\Debug\Employee Class.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A2\Employee Class\Employee Class\obj\Debug\Employee Class.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A2\Employee Class\Employee Class\bin\Debug\Employee Class.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A2\Employee Class\Employee Class\bin\Debug\Employee Class.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A2\Employee Class\Employee Class\obj\Debug\Employee Class.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A2\Employee Class\Employee Class\obj\Debug\Employee_Class.EmpForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A2\Employee Class\Employee Class\obj\Debug\Employee_Class.MainForm.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A2\Employee Class\Employee Class\obj\Debug\Employee_Class.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 3\Lesson3\L3A2\Employee Class\Employee Class\obj\Debug\Employee Class.csproj.GenerateResource.Cache
