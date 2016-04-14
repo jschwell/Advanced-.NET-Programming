@@ -1,0 +1,9 @@
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Vowels and Consonants\Vowels and Consonants\bin\Debug\Vowels and Consonants.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Vowels and Consonants\Vowels and Consonants\bin\Debug\Vowels and Consonants.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Vowels and Consonants\Vowels and Consonants\bin\Debug\Vowels and Consonants.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Vowels and Consonants\Vowels and Consonants\obj\Debug\Vowels and Consonants.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Vowels and Consonants\Vowels and Consonants\obj\Debug\Vowels_and_Consonants.Form1.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Vowels and Consonants\Vowels and Consonants\obj\Debug\Vowels_and_Consonants.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Vowels and Consonants\Vowels and Consonants\obj\Debug\Vowels and Consonants.csproj.GenerateResource.Cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Vowels and Consonants\Vowels and Consonants\obj\Debug\Vowels and Consonants.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Vowels and Consonants\Vowels and Consonants\obj\Debug\Vowels and Consonants.pdb
