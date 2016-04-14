@@ -1,0 +1,9 @@
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Alphabetic Telephone Number\Alphabetic Telephone Number\bin\Debug\Alphabetic Telephone Number.exe.config
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Alphabetic Telephone Number\Alphabetic Telephone Number\bin\Debug\Alphabetic Telephone Number.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Alphabetic Telephone Number\Alphabetic Telephone Number\bin\Debug\Alphabetic Telephone Number.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Alphabetic Telephone Number\Alphabetic Telephone Number\obj\Debug\Alphabetic Telephone Number.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Alphabetic Telephone Number\Alphabetic Telephone Number\obj\Debug\Alphabetic_Telephone_Number.Properties.Resources.resources
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Alphabetic Telephone Number\Alphabetic Telephone Number\obj\Debug\Alphabetic Telephone Number.csproj.GenerateResource.Cache
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Alphabetic Telephone Number\Alphabetic Telephone Number\obj\Debug\Alphabetic Telephone Number.exe
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Alphabetic Telephone Number\Alphabetic Telephone Number\obj\Debug\Alphabetic Telephone Number.pdb
+C:\Users\Jo\Desktop\WITC\WITC Semester 2\Advanced .NET Programming\Lesson 2\Alphabetic Telephone Number\Alphabetic Telephone Number\obj\Debug\Alphabetic_Telephone_Number.Form1.resources
