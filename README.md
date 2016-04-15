@@ -11,7 +11,7 @@ Programs created for the class Advanced .NET Programming
 * Vowels and Consonants
  * Allows the user to enter a string and returns the number of vowels and consonants the string contains 
 * Alphabetic Telephone Number Translator
- * Allows the user to enter a 10-character phone number and translates any alphabetic characters to ther numberic equivalent
+ * Allows the user to enter a 10-character phone number and translates any alphabetic characters to their numberic equivalent
 * Drink Vending Machine Simulator
  * Simulates a soft-drink vending machine
 
