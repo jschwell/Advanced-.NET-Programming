@@ -1,0 +1,70 @@
+﻿html { background:#f6f6f6; }
+body {
+    width:800px;
+    margin:20px auto 0;
+    font-family:Arial, sans-serif;
+    font-size:80%;
+    border:1px solid #eee;
+    background:#fff;
+}
+header {
+    padding:1.5em;
+    background:#60c1c7;
+}
+header h2 {
+    margin:0;
+    font-size:380%;
+    font-style:italic;
+    color:#fff;
+}
+header h3 {
+    font-size:140%;
+    margin:0;  
+    color:#222;
+}
+section {
+    padding:2em;
+}
+
+#ddlCustomer {
+    margin-bottom:1em;
+}
+
+table {
+    margin-bottom:1em;
+}
+
+td {
+    padding:0.3em 0;
+}
+td:first-child {
+    width:6em;
+    vertical-align:top;
+}
+
+#lbContacts {
+    width:500px;
+    height:150px;
+    display:inline-block;
+    vertical-align:middle;
+    margin-bottom:1em;
+}
+
+#selectbutton {
+    clear:both;
+}
+
+.button {
+    width:10em;
+    margin-bottom:1em;
+}
+
+#contactbuttons {
+    margin-left:1em;
+    display:inline-block;
+    vertical-align:middle;
+}
+
+#message {
+    color:red;
+}
